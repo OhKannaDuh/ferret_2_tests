@@ -393,4 +393,4 @@ function Lifecycle.get_label(value)
 end
 
 end)
-return __bundle_require("__root")
+ferret = __bundle_require("__root")
