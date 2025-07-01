@@ -1,0 +1,3 @@
+[submodule "external/classic"]
+	path = external/classic
+	url = https://github.com/rxi/classic.git

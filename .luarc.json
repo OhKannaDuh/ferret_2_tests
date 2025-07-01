@@ -1,0 +1,9 @@
+{
+  "Lua": {
+    "workspace": {
+      "library": [
+        "${env:APPDATA}/XIVLauncher/pluginConfigs/SomethingNeedDoing/stubs"
+      ]
+    }
+  }
+}
